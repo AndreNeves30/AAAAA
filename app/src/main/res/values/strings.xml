@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">AppBuscaCEP-API</string>
+    <string-array name="estado_array">
+        <item>SP</item>
+        <item>MG</item>
+        <item>RJ</item>
+        <item>PR</item>
+        <item>GO</item>
+        <item>AC</item>
+        <item>DF</item>
+        <item>SC</item>
+    </string-array>
+</resources>
